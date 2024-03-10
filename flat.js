@@ -39,6 +39,6 @@ document.addEventListener("DOMContentLoaded", function () {
         productsContainer.appendChild(card);
     });
     function addToCart() {
-        alert("Car added to cart!");
+        alert("Flat added to cart!");
     }
 });
